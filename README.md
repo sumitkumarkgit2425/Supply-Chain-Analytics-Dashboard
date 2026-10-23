@@ -163,7 +163,7 @@ Supply-Chain-Analytics-Dashboard
 Computer Science & Data Enthusiast | Python | SQL | Power BI | Analytics
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/sumitkumarkgit2425)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-kushwaha/)
 
 ---
 
