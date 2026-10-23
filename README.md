@@ -158,7 +158,7 @@ Supply-Chain-Analytics-Dashboard
 
 ## 👤 Author
 
-**Sumit**
+Sumit Kumar Kushwaha
 
 Computer Science & Data Enthusiast | Python | SQL | Power BI | Analytics
 
@@ -166,6 +166,3 @@ Computer Science & Data Enthusiast | Python | SQL | Power BI | Analytics
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-kushwaha/)
 
 ---
-
-### ⭐ If you found this project useful, consider giving it a star.
-
